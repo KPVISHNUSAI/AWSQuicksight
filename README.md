@@ -98,6 +98,4 @@ Feel free to explore more features of QuickSight and add additional analyses or 
     <img style="margin-bottom:20px;" src="https://github.com/KPVISHNUSAI/AWSQuicksight/blob/main/Screenshot%202024-10-15%20144440.png?raw=true" />
 </div>
 
-
-
 ---
