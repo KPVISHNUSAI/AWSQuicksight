@@ -101,5 +101,3 @@ Feel free to explore more features of QuickSight and add additional analyses or 
 
 
 ---
-
-Happy Visualizing! 🚀
