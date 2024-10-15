@@ -73,6 +73,18 @@ The `manifest.json` file acts like a map that tells Amazon QuickSight where the 
    - Time series to show the release trends over the years.
 4. Customize your dashboard to extract the most valuable insights.
 
+## Step 6: Clean Up Your Resources
+
+Once you're done with your project, don't forget to clean up the resources to avoid unnecessary charges.
+
+1. **Terminate your Amazon QuickSight account:**
+   - Go to the QuickSight console.
+   - Navigate to **Account Settings** and follow the instructions to terminate your account.
+2. **Delete your S3 bucket:**
+   - Go to the S3 console.
+   - Select the S3 bucket you created for this project.
+   - Delete the bucket along with all the files.
+
 ## Conclusion
 
 After following these steps, you'll have a fully functional dashboard that provides insights into Netflix's library of shows and movies using Amazon QuickSight. 🎬
@@ -81,7 +93,12 @@ Feel free to explore more features of QuickSight and add additional analyses or 
 
 ## Screenshots
 
-Add screenshots of your final dashboard here to show the trends of Netflix movies, TV shows, genres, and more.
+<div style="text-align:center;width:100%;">
+    <img style="margin-bottom:20px;" src="https://github.com/KPVISHNUSAI/AWSQuicksight/blob/main/Screenshot%202024-10-15%20144415.png?raw=true" />
+    <img style="margin-bottom:20px;" src="https://github.com/KPVISHNUSAI/AWSQuicksight/blob/main/Screenshot%202024-10-15%20144440.png?raw=true" />
+</div>
+
+
 
 ---
 
